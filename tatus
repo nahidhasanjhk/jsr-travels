@@ -1,0 +1,186 @@
+[1mdiff --git a/about.html b/about.html[m
+[1mdeleted file mode 100644[m
+[1mindex c791c09..0000000[m
+[1m--- a/about.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,43 +0,0 @@[m
+[31m-[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Jessore Travels BD | About</title>[m
+[31m-    <link rel="stylesheet" href="style.css">[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    <header>[m
+[31m-        <nav class="main-nav">[m
+[31m-            <span id="brand-name"><a href="home.html">Jessore Travels BD</a></span>[m
+[31m-            <ul class="menu">[m
+[31m-                <li><a href="index.html">Flight</a></li>[m
+[31m-                <li><a href="hotel.html">Hotel</a></li>[m
+[31m-                <li><a href="holiday.html">Holiday</a></li>[m
+[31m-                <li><a href="visa.html">Visa</a></li>[m
+[31m-                <li class="dropdown">[m
+[31m-                    <a href="#">Others</a>[m
+[31m-                    <div class="dropdown-content">[m
+[31m-                        <a href="contact.html">Contact Us</a>[m
+[31m-                        <a href="about.html">About Us</a>[m
+[31m-                        <a href="feedback.html">Feedback</a>[m
+[31m-                        <a href="check-ticket.html">Check Your Ticket</a>[m
+[31m-                    </div>[m
+[31m-                </li>[m
+[31m-            </ul>[m
+[31m-        </nav>[m
+[31m-    </header>[m
+[31m-    <main>[m
+[31m-        <h1>About</h1>[m
+[31m-        <p>This page is under development. Coming soon!</p>[m
+[31m-        <div id="countdown">[m
+[31m-            <p id="countdown-timer"></p>[m
+[31m-        </div>[m
+[31m-    </main>[m
+[31m-    <footer>[m
+[31m-        <!-- Footer Content Here -->[m
+[31m-    </footer>[m
+[31m-    <script src="main.js"></script>[m
+[31m-</body>[m
+[31m-</html>[m
+[1mdiff --git a/check-ticket.html b/check-ticket.html[m
+[1mdeleted file mode 100644[m
+[1mindex 6916b92..0000000[m
+[1m--- a/check-ticket.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,44 +0,0 @@[m
+[31m-[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Jessore Travels BD | Check-ticket</title>[m
+[31m-    <link rel="stylesheet" href="style.css">[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    <header>[m
+[31m-        <nav class="main-nav">[m
+[31m-            <span id="brand-name"><a href="home.html">Jessore Travels BD</a></span>[m
+[31m-            <ul class="menu">[m
+[31m-                <li><a href="index.html">Flight</a></li>[m
+[31m-                <li><a href="hotel.html">Hotel</a></li>[m
+[31m-                <li><a href="holiday.html">Holiday</a></li>[m
+[31m-                <li><a href="visa.html">Visa</a></li>[m
+[31m-                <li class="dropdown">[m
+[31m-                    <a href="#">Others</a>[m
+[31m-                    <div class="dropdown-content">[m
+[31m-                        <a href="contact.html">Contact Us</a>[m
+[31m-                        <a href="about.html">About Us</a>[m
+[31m-                        <a href="feedback.html">Feedback</a>[m
+[31m-                        <a href="check-ticket.html">Check Your Ticket</a>[m
+[31m-                    </div>[m
+[31m-                </li>[m
+[31m-            </ul>[m
+[31m-        </nav>[m
+[31m-    </header>[m
+[31m-    <main>[m
+[31m-    [m
+[31m-        <h1>Check-ticket</h1>[m
+[31m-        <p>This page is under development. Coming soon!</p>[m
+[31m-        <div id="countdown">[m
+[31m-            <p id="countdown-timer"></p>[m
+[31m-        </div>[m
+[31m-    </main>[m
+[31m-    <footer>[m
+[31m-        <!-- Footer Content Here -->[m
+[31m-    </footer>[m
+[31m-    <script src="main.js"></script>[m
+[31m-</body>[m
+[31m-</html>[m
+[1mdiff --git a/contact.html b/contact.html[m
+[1mdeleted file mode 100644[m
+[1mindex 0bc6fcf..0000000[m
+[1m--- a/contact.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,125 +0,0 @@[m
+[31m-[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Jessore Travels BD | Contact</title>[m
+[31m-    <link rel="stylesheet" href="style.css">[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    <header>[m
+[31m-        <nav class="main-nav">[m
+[31m-            <span id="brand-name"><a href="home.html">Jessore Travels BD</a></span>[m
+[31m-            <ul class="menu">[m
+[31m-                <li><a href="index.html">Flight</a></li>[m
+[31m-                <li><a href="hotel.html">Hotel</a></li>[m
+[31m-                <li><a href="holiday.html">Holiday</a></li>[m
+[31m-                <li><a href="visa.html">Visa</a></li>[m
+[31m-                <li class="dropdown">[m
+[31m-                    <a href="#">Others</a>[m
+[31m-                    <div class="dropdown-content">[m
+[31m-                        <a href="contact.html">Contact Us</a>[m
+[31m-                        <a href="about.html">About Us</a>[m
+[31m-                        <a href="feedback.html">Feedback</a>[m
+[31m-                        <a href="check-ticket.html">Check Your Ticket</a>[m
+[31m-                    </div>[m
+[31m-                </li>[m
+[31m-            </ul>[m
+[31m-        </nav>[m
+[31m-    </header>[m
+[31m-    <main>[m
+[31m-        <h1>Contact</h1>[m
+[31m-        <p>This page is under development. Coming soon!</p>[m
+[31m-        <div id="countdown">[m
+[31m-            <p id="countdown-timer"></p>[m
+[31m-        </div>[m
+[31m-    </main>[m
+[31m-    <footer>[m
+[31m-        <!-- Footer Content Here -->[m
+[31m-    </footer>[m
+[31m-    <script src="main.js"></script>[m
+[31m-</body>[m
+[31m-</html>[m
+[31m- <!-- Exclusive Offers Section -->[m
+[31m- <section id="offers">[m
+[31m-    <h2>Exclusive Offers</h2>[m
+[31m-    <div class="swiper-container">[m
+[31m-        <div class="swiper-wrapper">[m
+[31m-            <!-- Slide 1 -->[m
+[31m-            <div class="swiper-slide">[m
+[31m-                <div class="offer-card">[m
+[31m-                    <img src="images/offer1.jpg" alt="Special Bali Getaway">[m
+[31m-                    <div class="offer-content">[m
+[31m-                        <h3>Bali Getaway</h3>[m
+[31m-                        <p>Enjoy a 5-night luxury stay in Bali with guided tours included at a discounted rate!</p>[m
+[31m-                        <span class="price">Starting at $999</span>[m
+[31m-                        <button class="button">Book Now</button>[m
+[31m-                    </div>[m
+[31m-                </div>[m
+[31m-            </div>[m
+[31m-            <!-- Slide 2 -->[m
+[31m-            <div class="swiper-slide">[m
+[31m-                <div class="offer-card">[m
+[31m-                    <img src="images/offer2.jpg" alt="Adventure in Nepal">[m
+[31m-                    <div class="offer-content">[m
+[31m-                        <h3>Nepal Trek</h3>[m
+[31m-                        <p>Embark on an exhilarating trekking adventure through the Himalayas in Nepal.</p>[m
+[31m-                        <span class="price">From $749</span>[m
+[31m-                        <button class="button">Book Now</button>[m
+[31m-                    </div>[m
+[31m-                </div>[m
+[31m-            </div>[m
+[31m-            <!-- Slide 3 -->[m
+[31m-            <div class="swiper-slide">[m
+[31m-                <div class="offer-card">[m
+[31m-                    <img src="images/offer3.jpg" alt="Paris Weekend Escape">[m
+[31m-                    <div class="offer-content">[m
+[31m-                        <h3>Paris Escape</h3>[m
+[31m-                        <p>Spend a magical weekend in Paris, exploring the city of lights and love.</p>[m
+[31m-                        <span class="price">Just $599</span>[m
+[31m-                        <button class="button">Boo
